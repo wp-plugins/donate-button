@@ -1,5 +1,5 @@
 === Donate ===
-Author: bestwebsoft
+Contributors: bestwebsoft
 Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=10&product_id=13
 Tags: donation, donate, 2checkout, paypal, donate buttons, button, custom buttons, payment, payment button, 2CO, PP
 Requires at least: 3.0
@@ -8,7 +8,7 @@ Stable tag: 1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin makes it possible to place donation buttons of various payment systems (on your web page?) the easiest and fastest way.
+This plugin makes it possible to place donation buttons of various payment systems on your web page the easiest and fastest way.
 
 == Description ==
 
